@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31913d38.css",
+    "main.js": "/static/js/main.83eb93ae.js",
+    "static/js/453.117b0875.chunk.js": "/static/js/453.117b0875.chunk.js",
+    "static/media/orchid.jpg": "/static/media/orchid.b9e7ac5ad665f48a7da5.jpg",
+    "static/media/shop-bg.jpg": "/static/media/shop-bg.e684ca44c7a2e4c5cd96.jpg",
+    "static/media/snake.jpg": "/static/media/snake.5ce51c2fdf7f46ba6bb5.jpg",
+    "static/media/anthurium.jpg": "/static/media/anthurium.09ba63d6eb39baf3c8d8.jpg",
+    "static/media/monstera.jpg": "/static/media/monstera.2364ed5d8dc35bfc9a29.jpg",
+    "static/media/zz-plant.jpg": "/static/media/zz-plant.e2baf53303395f719023.jpg",
+    "static/media/fiddle-leaf.jpg": "/static/media/fiddle-leaf.cfdf1908f12760977b14.jpg",
+    "static/media/landingp-bg.jpg": "/static/media/landingp-bg.aff1b1361c5724ee22e6.jpg",
+    "index.html": "/index.html",
+    "main.31913d38.css.map": "/static/css/main.31913d38.css.map",
+    "main.83eb93ae.js.map": "/static/js/main.83eb93ae.js.map",
+    "453.117b0875.chunk.js.map": "/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31913d38.css",
+    "static/js/main.83eb93ae.js"
+  ]
+}
