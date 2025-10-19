@@ -56,7 +56,7 @@ function Header({ onNavigate, cartCount }) {
   return (
     <header className="site-header">
       <button className="brand" onClick={() => onNavigate("landing")}>
-        BeesyBotique
+        BeesyBoutique
       </button>
       <nav className="nav-links">
         <button onClick={() => onNavigate("products")}>Plants</button>
@@ -83,7 +83,7 @@ function Landing({ onNavigate }) {
   return (
     <section className="landing">
       <div className="hero-overlay">
-        <h1>BeesyBotique</h1>
+        <h1>BeesyBoutique</h1>
         <p>
           Discover elegant plants in decorative vases, each one hand-nurtured to
           bring life and style into your space. From lush Monsteras to graceful
